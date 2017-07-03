@@ -1,0 +1,8 @@
+C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\webapp\ClassLibrary1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\webapp\ClassLibrary1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\webapp\ClassLibrary1\UnitTestProject1\bin\Debug\ClassLibrary1.dll
+C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\webapp\ClassLibrary1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\webapp\ClassLibrary1\UnitTestProject1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\webapp\ClassLibrary1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\webapp\ClassLibrary1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\webapp\ClassLibrary1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

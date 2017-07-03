@@ -1,0 +1,9 @@
+C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1Test\bin\Debug\ClassLibrary1Test.dll
+C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1Test\bin\Debug\ClassLibrary1Test.pdb
+C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1Test\bin\Debug\ClassLibrary1.dll
+C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1Test\bin\Debug\nunit.framework.dll
+C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1Test\bin\Debug\ClassLibrary1.pdb
+C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1Test\bin\Debug\nunit.framework.xml
+C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1Test\obj\Debug\ClassLibrary1Test.csprojResolveAssemblyReference.cache
+C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1Test\obj\Debug\ClassLibrary1Test.dll
+C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1Test\obj\Debug\ClassLibrary1Test.pdb
