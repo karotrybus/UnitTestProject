@@ -10,8 +10,6 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            ClassLibrary1.Port dupa = new ClassLibrary1.Port();
-            dupa.Dupa();
         }
     }
 }
