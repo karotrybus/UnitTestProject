@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1Test", "ClassL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqTestProject", "MoqTestProject\MoqTestProject.csproj", "{3B796BAA-8008-4E3E-B2A2-E66927E2BD27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2Test", "ClassLibrary2Test\ClassLibrary2Test.csproj", "{7A146684-2524-424C-B6B4-34D133B46DB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3B796BAA-8008-4E3E-B2A2-E66927E2BD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B796BAA-8008-4E3E-B2A2-E66927E2BD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B796BAA-8008-4E3E-B2A2-E66927E2BD27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A146684-2524-424C-B6B4-34D133B46DB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A146684-2524-424C-B6B4-34D133B46DB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A146684-2524-424C-B6B4-34D133B46DB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A146684-2524-424C-B6B4-34D133B46DB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

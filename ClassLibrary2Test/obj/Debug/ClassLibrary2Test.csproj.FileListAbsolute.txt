@@ -1,0 +1,16 @@
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary2Test\bin\Debug\xunit.abstractions.dll
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary2Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary2Test\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary2Test\bin\Debug\ClassLibrary2Test.dll
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary2Test\bin\Debug\ClassLibrary2Test.pdb
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary2Test\bin\Debug\xunit.assert.dll
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary2Test\bin\Debug\xunit.core.dll
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary2Test\bin\Debug\xunit.execution.desktop.dll
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary2Test\bin\Debug\xunit.assert.xml
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary2Test\bin\Debug\xunit.core.xml
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary2Test\bin\Debug\xunit.execution.desktop.xml
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary2Test\obj\Debug\ClassLibrary2Test.csprojResolveAssemblyReference.cache
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary2Test\obj\Debug\ClassLibrary2Test.dll
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary2Test\obj\Debug\ClassLibrary2Test.pdb
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary2Test\bin\Debug\ClassLibrary1.dll
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary2Test\bin\Debug\ClassLibrary1.pdb

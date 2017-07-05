@@ -8,3 +8,14 @@ C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibr
 C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
 C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\Users\Karolinka\Documents\Visual Studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary1\bin\Debug\FluentAssertions.Core.dll
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary1\bin\Debug\FluentAssertions.dll
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary1\bin\Debug\FluentAssertions.pdb
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary1\bin\Debug\FluentAssertions.xml
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary1\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary1\bin\Debug\FluentAssertions.Core.xml
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\ktrybus\Documents\Visual Studio 2017\Projects\UnitTestProject\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
